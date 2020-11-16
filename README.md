@@ -6,7 +6,7 @@
 
 
 
-[BlockChallen 보러가기](https://j3a102.p.ssafy.io)
+~~[BlockChallen 보러가기](https://j3a102.p.ssafy.io)~~
 
 
 
@@ -304,9 +304,9 @@ $ geth attach rpc:http://j3a102.p.ssafy.io:8545
 
 > Gitlab에서 push와 같은 webhook을 날리면 Jenkins에서 repository를 가지고 와서 프론트엔드와 백엔드를 빌드
 
-[Jenkins sever](http://j3a102.p.ssafy.io:8070/)
+~~[Jenkins sever](http://j3a102.p.ssafy.io:8070/)~~
 
->  id : ```visitor``` password : ``` j3a102```
+>  ~~id : ```visitor``` password : ``` j3a102```~~
 
 빌드 완료 시 SSH & SCP를 통해 AWS로 빌드된 파일을 날리고 sh파일과 Dockerfile을 통해 자동 배포
 
